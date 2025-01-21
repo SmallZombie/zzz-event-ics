@@ -1,4 +1,4 @@
-const UID_PREFIX = 'sr-event-';
+const UID_PREFIX = 'zzz-event-';
 
 
 export {

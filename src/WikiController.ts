@@ -21,7 +21,6 @@ async function getAllEvents(): Promise<EventType[]> {
         }
 
         // "公测开启后"
-        console.log('debug', dateStr);
         const match4 = /公测开启后/.exec(dateStr);
         if (match4) {
             return new Date('2024-07-04T02:00:00.000Z');
