@@ -1,3 +1,6 @@
+This project has been archived, please check [SmallZombie/anything-ics](https://github.com/SmallZombie/anything-ics)
+
+
 # Zenless Zone Zero Event Calendar
 [English](README.md) | [简体中文](README.zh-CN.md)
 

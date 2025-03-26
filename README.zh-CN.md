@@ -1,3 +1,6 @@
+本项目已归档，请查看 [SmallZombie/anything-ics](https://github.com/SmallZombie/anything-ics)
+
+
 # 绝区零活动日历
 [English](README.md) | [简体中文](README.zh-CN.md)
 
